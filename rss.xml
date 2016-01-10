@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Il mondo di Funziona]]></title>
         <description><![CDATA[Il mondo di Funziona]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/il-mondo-di-funziona/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 10:39:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 10:47:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/il-mondo-di-funziona/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b71c639-036c-4893-b009-8aa71857591b.jpg">]]></description>
+            <link>https://thegrid.ai/il-mondo-di-funziona/ff93e745-fed6-44ba-a248-53a8233592a1/index.html</link>
+            <guid isPermaLink="false">ff93e745-fed6-44ba-a248-53a8233592a1</guid>
+            <pubDate>Sun, 10 Jan 2016 10:46:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Natale]]></title>
             <description><![CDATA[<article><h1>Natale</h1><p>– È natale Funziona, non sei contento?–Contento per cosa?– È un giorno speciale, oggi siamo tutti più buoni.– Più buoni di chi?– Più buoni di come siamo di solito.– Quindi ne siamo capaci.– Sì...– E perché non lo siamo sempre, più buoni?– Perché poi a Natale non sapremmo come comportarci.– Basterebbe avere Natale tutti i giorni, no?– Credo di sì... ma aspetta: non lo dici per ricevere regali tutti i giorni, vero?– Mi piacciono, i regali.– Lo so. Buon Natale, Funziona.– Buon Natale, papà.</p></article>]]></description>
-            <link>undefinednatale/index.html</link>
+            <link>https://thegrid.ai/il-mondo-di-funziona/natale/index.html</link>
             <guid isPermaLink="false">267dc77b-4c20-440d-9280-0a5891a68c49</guid>
             <pubDate>Sun, 10 Jan 2016 10:39:21 GMT</pubDate>
         </item>
