@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Vuoti
+    id: 661a49e5-f7a7-4194-9bdb-f6a534cd8e0b
+    type: content
 favicon: null
 title: Il mondo di Funziona
 description: Scopri l'improbabile mondo di Funziona
